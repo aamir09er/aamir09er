@@ -13,7 +13,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aamir09er&label=Profile%20views&color=0e75b6&style=flat" alt="aamir09er" /> </p>
 
-- 🔭 I’m currently working on **media.net as sysops engineer**
+- 🔭 I’m currently working on **media.net as SysOps engineer**
 
 - 🌱 **I’m continuously learning about the latest DevOps practices and cloud technologies.**
 
