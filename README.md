@@ -13,11 +13,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aamir09er&label=Profile%20views&color=0e75b6&style=flat" alt="aamir09er" /> </p>
 
-- 🔭 I’m currently working on **enhancing my skills in cloud architecture(EKS) and CI/CD pipelines.**
+- 🔭 I’m currently working on **media.net as sysops engineer**
 
 - 🌱 **I’m continuously learning about the latest DevOps practices and cloud technologies.**
 
-- 💬 Ask me about **DevOps,AWS EKS, cloud computing, CI/CD, Docker, Terraform, Infrastructure Planning and more!**
+- 💬 Ask me about **DevOps,AWS EKS, cloud computing, CI/CD, Docker, Terraform,Ansible, Infrastructure Planning and more!**
 
 - 📫 How to reach me **aamir09er@gmail.com**
 
