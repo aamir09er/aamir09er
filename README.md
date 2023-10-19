@@ -9,13 +9,13 @@
 
 
 <h1 align="center">Hi 👋, I'm Aamir Ansari</h1>
-<h3 align="center">I'm a DevOps and cloud enthusiast with a passion for automating and streamlining development, deployment, and operations processes</h3>
+<h3 align="center">I'm a DevOps and cloud enthusiast with a passion for automating and streamlining development, deployment, and operations processes.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aamir09er&label=Profile%20views&color=0e75b6&style=flat" alt="aamir09er" /> </p>
 
 - 🔭 I’m currently working on **enhancing my skills in cloud architecture(EKS) and CI/CD pipelines.**
 
-- 🌱 I’m currently learning **I’m continuously learning about the latest DevOps practices and cloud technologies.**
+- 🌱 **I’m continuously learning about the latest DevOps practices and cloud technologies.**
 
 - 💬 Ask me about **DevOps,AWS EKS, cloud computing, CI/CD, Docker, Terraform, Infrastructure Planning and more!**
 
