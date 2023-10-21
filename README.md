@@ -15,7 +15,7 @@
 
 - 🔭 I’m currently working on **media.net as SysOps engineer**
 
-- 🌱 **I’m continuously learning about the latest DevOps practices and cloud technologies.**
+- 🌱 **I’m continuously learning about the latest DevOps/SRE practices and infrastructure planning.**
 
 - 💬 Ask me about **DevOps,AWS EKS, cloud computing, CI/CD, Docker, Terraform,Ansible, Infrastructure Planning and more!**
 
