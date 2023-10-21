@@ -21,6 +21,20 @@
 
 - 📫 How to reach me **aamir09er@gmail.com**
 
+<h3> Experience</h3>
+My experience includes managing Proxmox clusters, where I handle node assignment and supervision, and use Z Pools to create robust, highly available clusters. I am proficient in setting up Prometheus alerts for effective system monitoring and health maintenance. I am skilled in infrastructure planning for high availability setups and resource monitoring to prevent wastage, optimizing overall efficiency.
+
+I am proficient in managing and networking provisioning for both Linux and Windows servers. I am skilled in troubleshooting and rectifying vulnerabilities to ensure system security and efficiency. I manage and maintain the GitLab server to ensure the proper configuration of Puppet and the smooth operation of workflows. I regularly monitor system performance, troubleshoot issues, and implement updates and enhancements as needed.
+
+I have experience in AWS VPC Subnet allocation, setting up end-to-end route protocols, and managing resource allocations for EC2/S3. I am proficient in customizing IAM permissions and utilizing Python’s boto3 library with AWS Lambda to check for unwanted resources.
+
+I oversee the management of Jenkins pipelines and CI/CD workflows. I use ELK for logging and analyzing issues. I manage Windows user GPO policies, updates, adding machines or users in Active Directory. I write powershell/bash/python Scripts for monitoring alerts or automating jobs. I use Pingdom for monitoring check/alerts of our domains.
+
+Adhere to DevOps/SRE best practices and have hands-on experience with AWS EKS.
+
+I handle data backup and archival using gcloud. I resolve tickets and manage ticket lifecycle using Redmine
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/aamir09" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aamir09" height="30" width="40" /></a>
