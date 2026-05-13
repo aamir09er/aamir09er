@@ -23,25 +23,21 @@
 
 <h3> Experience</h3>
 
-In my role, I oversee the intricate management and provisioning of an AWS EKS-based SaaS platform, ensuring its smooth operation and scalability. To maintain peak performance, I employ sophisticated monitoring tools such as Datadog and Fluentbit for comprehensive insights, with data meticulously indexed in AWS OpenSearch.
+Site Reliability Engineer / DevOps Engineer with 4+ years of hands-on experience managing large-scale production infrastructure across AWS, Kubernetes, and hybrid environments. Experienced in building reliable, scalable, and highly available cloud-native platforms with a strong focus on automation, observability, incident response, and infrastructure optimization.
 
-Moreover, I possess knowledge of Consul Service Mesh, leveraging its capabilities for internal communication within our platform, optimizing efficiency and reliability. When it comes to infrastructure deployment, I rely on Terraform for seamless orchestration, complemented by my proficiency in Puppet and Ansible for robust production infrastructure management.
+Currently managing and provisioning AWS EKS-based SaaS platforms, ensuring platform reliability, scalability, and operational efficiency across production environments. Skilled in Kubernetes operations, Helm-based deployments, troubleshooting distributed systems, and managing stateful workloads such as Cassandra with robust backup and recovery strategies.
 
-In tackling Kubernetes applications, I bring hands-on expertise in troubleshooting and deployment using Helm charts, employing meticulous attention to detail through meticulously crafted wrapper scripts. Particularly with stateful set applications like Cassandra, I prioritize the implementation of robust backup strategies to safeguard vital data integrity and ensure uninterrupted operations.
+Experienced in implementing Infrastructure as Code using Terraform and automating operational workflows through Bash, Python, Puppet, and Ansible. Worked extensively with CI/CD pipelines using Tekton, Jenkins, GitLab CI/CD, and GitHub Actions to streamline deployments and improve engineering productivity.
 
-we utilize Tekton Pipelines to establish structured workflows and streamline job executions, fostering efficiency and consistency throughout our development and deployment processes. This integration further enhances our platform's agility and reliability, empowering our team to deliver high-quality solutions with precision and speed.
-Furthermore, we employ HashiCorp Vault for secure storage of secrets, ensuring robust encryption and stringent access controls to fortify the security of our deployment applications.
+Strong background in observability and monitoring using Datadog, FluentBit, Prometheus, ELK Stack, Pingdom, and AWS OpenSearch for centralized logging, alerting, and incident analysis. Focused on reducing alert noise, improving visibility, and maintaining high platform uptime.
 
-Additionally, I possess a comprehensive understanding of NATS messaging queue architecture, enabling me to adeptly troubleshoot any potential issues that may arise, thus guaranteeing seamless communication across our distributed system. Through these diverse skill sets and experiences, I am committed to ensuring the reliability, scalability, and efficiency of our SaaS platform, driving continued success and innovation
+Hands-on experience with HashiCorp Vault for secrets management, Consul Service Mesh for internal service communication, and NATS architecture for distributed messaging and system reliability.
 
-Media.Net
-My experience includes managing Proxmox clusters, where I handle node assignment and supervision, and use Z Pools to create robust, highly available clusters. I am proficient in setting up Prometheus alerts for effective system monitoring and health maintenance. I am skilled in infrastructure planning for high availability setups and resource monitoring to prevent wastage, optimizing overall efficiency.
+Previously managed large-scale Proxmox clusters and highly available VM infrastructure, including node supervision, ZFS/ZPool-based storage management, and infrastructure capacity planning. Experienced in maintaining both Linux and Windows server environments, including Active Directory, GPO policies, networking, and security hardening.
 
-I am proficient in managing and networking provisioning for both Linux and Windows servers. I am skilled in troubleshooting and rectifying vulnerabilities to ensure system security and efficiency. I manage and maintain the GitLab server to ensure the proper configuration of Puppet and the smooth operation of workflows. I regularly monitor system performance, troubleshoot issues, and implement updates and enhancements as needed.
+Strong knowledge of AWS networking and cloud infrastructure, including VPCs, subnets, routing, IAM permissions, EC2, S3, Lambda, and boto3 automation scripting. Skilled in troubleshooting production incidents, optimizing infrastructure costs, improving deployment reliability, and automating repetitive operational tasks.
 
-I have experience in AWS VPC Subnet allocation, setting up end-to-end route protocols, and managing resource allocations for EC2/S3. I am proficient in customizing IAM permissions and utilizing Python’s boto3 library with AWS Lambda to check for unwanted resources.
-
-I oversee the management of Jenkins pipelines and CI/CD workflows. I use ELK for logging and analyzing issues. I manage Windows user GPO policies, updates, adding machines or users in Active Directory. I write powershell/bash/python Scripts for monitoring alerts or automating jobs. I use Pingdom for monitoring check/alerts of our domains.
+Passionate about platform engineering, cloud infrastructure, Kubernetes, automation, and building resilient systems that scale efficiently in production environments.
 
 
 <h3 align="left">Connect with me:</h3>
